@@ -1,0 +1,1 @@
+# woodmart-core-plugin-svg-error
